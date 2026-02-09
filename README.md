@@ -11,10 +11,10 @@ git push
 
 * https://github.com/norfinnisle/git/blob/main/git/git.md
 
-## ローカルファイルをGitHubにアップロードする手順
+## Github
 
+### ローカルファイルをGitHubにアップロードする手順
 * https://github.com/norfinnisle/git/blob/main/github/local_to_github.md
 
-## SSHを使用した接続
-
+### SSHを使用した接続
 * https://github.com/norfinnisle/git/blob/main/github/ssh.md
