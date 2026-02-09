@@ -49,7 +49,10 @@ git push -u origin main
 * push（再）
   * ```git push -u origin main```
   * Username: GitHub のユーザー名
-  * Password: <token>
+  * Password: < token >
 
+---
 
 ## リモートリポジトリでREADMEなどを作成してしまった場合
+
+...
