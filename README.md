@@ -1,7 +1,7 @@
 ```
-git status
-git add .
-git commit -m "update"
+git st
+git adl
+git cm "update"
 git push
 ```
 
